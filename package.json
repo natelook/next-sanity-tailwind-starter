@@ -1,0 +1,22 @@
+{
+	"name": "next-sanity-tailwind-starter",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"scripts": {
+		"dev": "next dev",
+		"start": "next start",
+		"build": "next build"
+	},
+	"dependencies": {
+		"next": "^10.0.5",
+		"next-sanity": "^0.1.8",
+		"react": "^17.0.1",
+		"react-dom": "^17.0.1"
+	},
+	"devDependencies": {
+		"postcss": "^8.2.4",
+		"postcss-preset-env": "^6.7.0",
+		"tailwindcss": "^2.0.2"
+	}
+}
